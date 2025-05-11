@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1714916083 source:c:\users\dell\desktop\pjtcpp\main.cpp
+	<iostream>
+	<string>
+	<set>
+	<deque>
+	<list>
+	<map>
+	<algorithm>
+	<ctime>
+
